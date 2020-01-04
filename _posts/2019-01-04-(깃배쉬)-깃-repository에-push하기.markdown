@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(깃배쉬) 깃 repository에 push하기"
+title:  "깃배쉬  깃 repository에 push하기"
 date:   2019-01-04 10:09:38
 description: 깃 배쉬로 깃 repository에 push하기
 categories: 기타 
@@ -8,7 +8,8 @@ categories: 기타
 - jekyll
 ---
 
-# (깃 배쉬) 깃 repository에 push하기 
+(깃 배쉬) 깃 repository에 push하기 
+
 $ pwd 로 자신의 현재 디렉토리를 찾는다.
 
     $ pwd
