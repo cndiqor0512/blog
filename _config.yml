@@ -20,23 +20,23 @@ harmony:
   meta_description: > # 
    Harmony is a free responsive jekyll theme by Gayan Virajith
    and Maheshika Lakmali. Sourced on Github - 
-   https://github.com/gayanvirajith/harmony
+   https://github.com/cndiqor0512
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
-    name: Gayan Virajith
-    email: gayanvirajith@gmail.com
-    url: http://gayanvirajith.github.io
+    name: cndiqor0512
+    email: cndiqor0512.com
+    url: http://cndiqor0512.github.io/blog
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
 
   # Profile links, leave blank to ignore
   social: 
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
-    gplus: +GayanVirajith
-    dribble: gayan
+    github: cndiqor0512
+    twitter: cndiqor0512
+    facebook: cndiqor0512
+    gplus: +cndiqor0512
+    dribble: 
     pinterest: 
   # Toggle disclaimer in footer
   show_disclaimer: true
