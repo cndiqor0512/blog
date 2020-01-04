@@ -3,6 +3,7 @@ layout: post
 title:  "(깃배쉬) 깃 repository에 push하기"
 date:   2019-01-04 10:09:38
 description: 깃 배쉬로 깃 repository에 push하기
+categories: 기타 
 - blog
 - jekyll
 ---
