@@ -5,7 +5,7 @@ date:   2019-01-04 09:36:45
 description: 내가 현재 프로그래밍을 배우는 이유
 categories:         
 - blog
-- jekyll
+-programming
 ---
 
 프로그래밍을 배우는 이유
