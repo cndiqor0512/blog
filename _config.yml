@@ -11,16 +11,14 @@ url: https://cndiqor0512.github.io
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name:cndiqor0512-https://cndiqor0512.github.io/blog
+  name:추야백-포스트  
   # Little description about your site
-  description: cndiqor0512 포스팅
+  description: 추야백의 블로그
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
   meta_description: > # 
-   Harmony is a free responsive jekyll theme by Gayan Virajith
-   and Maheshika Lakmali. Sourced on Github - 
-   https://github.com/cndiqor0512
+   추야백-기술 블로그
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: cndiqor0512
