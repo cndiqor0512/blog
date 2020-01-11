@@ -9,7 +9,7 @@ categories:
 - java
 ---
 
-## 자바의 gui에 대한 여러가지 예제들
+-자바의 gui에 대한 여러가지 예제들
 
 # 가.자바 GUI
 
@@ -94,9 +94,7 @@ void setBounds(intx, inty, int width, int height) :: 위치와 크기를 설정
 
 결과::
 
-
-
-![](https://miro.medium.com/max/284/1*LGUYH6_dynDWvvjzvNkrnQ.png)
+![이미지1]("https://miro.medium.com/max/284/1*LGUYH6_dynDWvvjzvNkrnQ.png")
 
 예제 2
 
@@ -116,7 +114,7 @@ void setBounds(intx, inty, int width, int height) :: 위치와 크기를 설정
 
 
 
-![](https://miro.medium.com/max/286/1*QDu7jDxT07OpHH1pJ_E9AA.png)
+![이미지2]("https://miro.medium.com/max/286/1*QDu7jDxT07OpHH1pJ_E9AA.png")
 
 ## 2.panel
 
@@ -147,4 +145,4 @@ Panel( LayoutManager layout) ::  **지정된 레이아웃 매니저를 이용하
 
 
 
-![](https://miro.medium.com/max/284/1*K4GTQ5QHXood6MP11WSjUw.png)
+![이미지3]("https://miro.medium.com/max/284/1*K4GTQ5QHXood6MP11WSjUw.png")
