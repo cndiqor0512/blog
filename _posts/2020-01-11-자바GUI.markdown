@@ -87,11 +87,14 @@ void setBounds(intx, inty, int width, int height) :: 위치와 크기를 설정
 
 ## Frame 예제::
 
-import java.awt.Frame;public class JavaGui01{// 메인public static void main(String args[]){Frame f= new Frame();f.setTitle("첫 번째 프레임 입니다.");f.setBounds(100, 100, 300, 300);f.setVisible(true);}}
-
-
-![](https://miro.medium.com/max/426/1*XD5RVkrRH44B6zjobWRWKg.png)
-
+    import java.awt.Frame;
+	    public class JavaGui01{
+		    // 메인
+		    public static void main(String args[]){
+		    Frame f= new Frame();f.setTitle("첫 번째 프레임 입니다.");
+		    f.setBounds(100, 100, 300, 300);f.setVisible(true);
+	    }
+    }
 결과::
 
 
@@ -101,19 +104,22 @@ import java.awt.Frame;public class JavaGui01{// 메인public static void main(St
 
 (1)
 
-import java.awt.Frame;// Frame 상속해서public class JavaGui02 extends Frame{public JavaGui02(){super("두 번째 프레임입니다.");setBounds(100, 100, 300, 300);setVisible(true);}}
-
-![](https://miro.medium.com/max/30/1*EZrn4E1C9YAn_AARDPm21g.png?q=20)
-
-![](https://miro.medium.com/max/387/1*EZrn4E1C9YAn_AARDPm21g.png)
-
+    import java.awt.Frame;
+    // Frame 상속해서
+	    public class JavaGui02 extends Frame{
+		    public JavaGui02(){
+		    super("두 번째 프레임입니다.");
+		    setBounds(100, 100, 300, 300);
+		    setVisible(true);
+	    }
+    }
 (2)
 
-public class Main{public static void main(String args[]){JavaGui02 Obj = new JavaGui02();}}
-
-
-![](https://miro.medium.com/max/435/1*jrXt5kVoZaABYdg8_YqpJA.png)
-
+    public class Main{
+	    public static void main(String args[]){
+		    JavaGui02 Obj = new JavaGui02();
+	    }
+    }
 결과::
 
 
@@ -134,17 +140,32 @@ Panel( LayoutManager layout) ::  **지정된 레이아웃 매니저를 이용하
 
 (1)
 
-import java.awt.Color;import java.awt.Frame;import java.awt.Panel;public class PanelTest extends Frame{public PanelTest(String str){super(str);Panel panel1 = new Panel();// 색을 빨강으로 지정panel1.setBackground(Color.RED);// 추가add(panel1);// 크기setSize(300,300);setVisible(true);}}
-
-![](https://miro.medium.com/max/401/1*b14k7WzHK-B6KlITL_DnEA.png)
+    import java.awt.Color;
+    import java.awt.Frame;
+    import java.awt.Panel;
+	    public class PanelTest extends Frame{
+		    public PanelTest(String str){
+			    super(str);
+			    Panel panel1 = new Panel();
+			    // 색을 빨강으로 지정
+			    panel1.setBackground(Color.RED);
+			    // 추가
+			    add(panel1);
+			    // 크기
+			    setSize(300,300);
+			    setVisible(true);
+		}
+	}
 
 (2)
 
-public class Main{public static void main(String args[]){new PanelTest("패널 테스트");}}
-
-
-![](https://miro.medium.com/max/433/1*2Il1ZkP0gTew_1xFV8syWw.png)
+    public class Main{
+	    public static void main(String args[]){
+		    new PanelTest("패널 테스트");
+		}	
+	}
 
 결과::
 
 ![](https://miro.medium.com/max/284/1*K4GTQ5QHXood6MP11WSjUw.png)
+
