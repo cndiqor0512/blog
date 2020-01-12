@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "자바 객체지향, 메소드, 생성자(2)"
-date:   2020-01-12 10:08:47
+date:   2020-01-12 10:22:30
 description: 객체지향, 메소드, 생성자 설명
 categories: 
 - blog
