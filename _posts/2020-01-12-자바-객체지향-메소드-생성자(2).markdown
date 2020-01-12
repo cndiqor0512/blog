@@ -6,7 +6,7 @@ description: 객체지향, 메소드, 생성자 설명
 categories: 
 - blog
 - programming
-- android studio
+- java
 ---
 
 자바 객체지향, 메소드, 생성자(2)
