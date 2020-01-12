@@ -65,7 +65,7 @@ javax.swing 패키지의 클래스 이용::
 -   Frame(String str) :: str을 타이틀을 지정하여 프레임을 생성
 
 <주요 메소드>
-~~~
+
 static Frame[] getFrames() :: 애플리케이션에서 생성한 모든 프레임 리턴
 
 MenuBar getMenuBar() :: 프레임의 메뉴바를 리턴
@@ -87,50 +87,49 @@ void setVisible(boolean b) :: 파라미터 b값에 응해, 이 컴퍼넌트를 �
 void setLocation(int x, int y) :: 이 컴퍼넌트를 새로운 위치로 이동
 
 void setBounds(intx, inty, int width, int height) :: 위치와 크기를 설정
-~~~
+
 ## Frame 예제::
-~~~
+
     import java.awt.Frame;
-    public class JavaGui01{
-        // 메인
-        public static void main(String args[]){
-            Frame f= new Frame();
-            f.setTitle("첫 번째 프레임 입니다.");
-            f.setBounds(100, 100, 300, 300);
-            f.setVisible(true);
-            }}
-~~~
+	    public class JavaGui01{
+		    // 메인
+		    public static void main(String args[]){
+			    Frame f= new Frame();
+			    f.setTitle("첫 번째 프레임 입니다.");
+			    f.setBounds(100, 100, 300, 300);
+			    f.setVisible(true);
+		}
+	}
+
 결과::
 
 <img src="https://miro.medium.com/max/284/1*LGUYH6_dynDWvvjzvNkrnQ.png" width="225px" height="150px" title="px(픽셀) 크기 설정" alt="이미지1"></img><br/>
 
-
 예제 2
 
 (1)
-~~~
-    import java.awt.Frame;
-    // Frame 상속해서
-    public class JavaGui02 extends Frame{
-        public JavaGui02(){
-            super("두 번째 프레임입니다.");
-            setBounds(100, 100, 300, 300);
-            setVisible(true);
-            }}
-~~~
 
+    import java.awt.Frame;
+	    // Frame 상속해서
+	    public class JavaGui02 extends Frame{
+		    public JavaGui02(){
+			    super("두 번째 프레임입니다.");
+			    setBounds(100, 100, 300, 300);
+			    setVisible(true);
+		}
+	}
 
 (2)
-~~~
+
     public class Main{
-        public static void main(String args[]){
-            JavaGui02 Obj = new JavaGui02();
-            }}
-~~~
+	    public static void main(String args[]){
+	    JavaGui02 Obj = new JavaGui02();
+		}
+	}
+
 결과::
 
 <img src="https://miro.medium.com/max/286/1*QDu7jDxT07OpHH1pJ_E9AA.png" width="225px" height="150px" title="px(픽셀) 크기 설정" alt="이미지2"></img><br/>
-
 
 ## 2.panel
 
@@ -146,31 +145,31 @@ Panel( LayoutManager layout) ::  **지정된 레이아웃 매니저를 이용하
 ## panel 예제::
 
 (1)
-~~~
+
     import java.awt.Color;
     import java.awt.Frame;
     import java.awt.Panel;
-    public class PanelTest extends Frame{
-        public PanelTest(String str){super(str);
-        Panel panel1 = new Panel();
-        // 색을 빨강으로 지정
-        panel1.setBackground(Color.RED);
-        // 추가
-        add(panel1);
-        // 크기
-        setSize(300,300);
-        setVisible(true);
-        }}
-~~~
-
+	    public class PanelTest extends Frame{
+		    public PanelTest(String str){super(str);
+		    Panel panel1 = new Panel();
+		    // 색을 빨강으로 지정
+		    panel1.setBackground(Color.RED);
+		    // 추가
+		    add(panel1);
+		    // 크기
+		    setSize(300,300);
+		    setVisible(true);
+		}
+	}
 
 (2)
-~~~
+
     public class Main{
-        public static void main(String args[]){
-            new PanelTest("패널 테스트");
-            }}
-~~~
+	    public static void main(String args[]){
+		    new PanelTest("패널 테스트");
+	    }
+    }
+
 
 
 결과::
