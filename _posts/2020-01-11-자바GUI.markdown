@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "자바GUI설명"
-date:   2020-01-04 10:09:38
+date:   2020-01-11 10:09:38
 description: 자바GUI예제
 categories: 
 - blog
