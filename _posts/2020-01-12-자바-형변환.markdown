@@ -11,6 +11,8 @@ categories:
 
 자바 형변환
 
+
+
 -   String->Int:자바nteger클래스의 parseInt함수와 valueOf 함수로 변환 시켜줄 수 있다.
 -   예:
 
