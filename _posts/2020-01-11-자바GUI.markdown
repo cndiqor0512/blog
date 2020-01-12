@@ -103,7 +103,7 @@ javax.swing 패키지의 클래스 이용::
 
 ## 결과::
 
-<img src="https://miro.medium.com/max/284/1*LGUYH6_dynDWvvjzvNkrnQ.png" width="225px" height="150px" title="px(픽셀) 크기 설정" alt="이미지1"></img><br/>
+<img src="https://miro.medium.com/max/284/1*LGUYH6_dynDWvvjzvNkrnQ.png" width="225px" height="150px" title="px(픽셀) 크기 설정" alt="이미지1"><br/>
 
 ## 예제 2
 
@@ -129,7 +129,7 @@ javax.swing 패키지의 클래스 이용::
 
 ## 결과::
 
-<img src="https://miro.medium.com/max/286/1*QDu7jDxT07OpHH1pJ_E9AA.png" width="225px" height="150px" title="px(픽셀) 크기 설정" alt="이미지2"></img><br/>
+<img src="https://miro.medium.com/max/286/1*QDu7jDxT07OpHH1pJ_E9AA.png" width="225px" height="150px" title="px(픽셀) 크기 설정" alt="이미지2"><br/>
 
 ## 2.panel
 
@@ -174,4 +174,4 @@ javax.swing 패키지의 클래스 이용::
 
 ## 결과::
 
-<img src="https://miro.medium.com/max/284/1*K4GTQ5QHXood6MP11WSjUw.png" width="225px" height="150px" title="px(픽셀) 크기 설정" alt="이미지3"></img><br/>
+<img src="https://miro.medium.com/max/284/1*K4GTQ5QHXood6MP11WSjUw.png" width="225px" height="150px" title="px(픽셀) 크기 설정" alt="이미지3"><br/>
