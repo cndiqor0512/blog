@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "안드로이드 개발자 등록"
-date:   2020-01-11 10:30:43
+date:   2020-01-12 10:30:43
 description: 안드로이드 개발자 등록하기
 categories: 
 - blog
