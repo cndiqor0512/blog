@@ -4,6 +4,7 @@ title:  "안드로이드 스튜디오 리사이클러뷰"
 date:   2020-02-15 09:24:13
 description: 리사이클러뷰
 categories: 
+comments: true
 - blog
 - programming
 - java
