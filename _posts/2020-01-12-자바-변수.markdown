@@ -3,6 +3,7 @@ layout: post
 title:  "자바 변수"
 date:   2020-01-12 09:37:25
 description: 자바 변수
+comments: true
 categories: 
 - blog
 - programming

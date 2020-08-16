@@ -3,6 +3,7 @@ layout: post
 title:  "자바의 객체지향, 메소드, 생성자"
 date:   2020-01-12 10:00:45
 description: 자바의 객체지향
+comments: true
 categories: 
 - blog
 - programming

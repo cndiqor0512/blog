@@ -3,11 +3,11 @@ layout: post
 title:  "안드로이드 개발자 등록"
 date:   2020-01-12 10:30:43
 description: 안드로이드 개발자 등록하기
+comments: true
 categories: 
 - blog
 - android
 ---
-
 [https://play.google.com/apps/publish/signup](https://play.google.com/apps/publish/signup)
 
 위 링크로 접속하면 아래와 같은 사이트로 이동한다.

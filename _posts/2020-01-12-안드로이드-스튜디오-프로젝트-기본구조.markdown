@@ -3,6 +3,7 @@ layout: post
 title:  "안드로이드 스튜디오 프로젝트 기본 구조"
 date:   2020-01-12 10:25:21
 description: 안드로이드 스튜디오 프로젝트 기본 구조 설명
+comments: true
 categories: 
 - blog
 - programming

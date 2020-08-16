@@ -3,6 +3,7 @@ layout: post
 title:  "자바GUI설명"
 date:   2020-01-11 10:09:38
 description: 자바GUI예제
+comments: true
 categories: 
 - blog
 - programming
@@ -126,8 +127,10 @@ javax.swing 패키지의 클래스 이용::
 	    JavaGui02 Obj = new JavaGui02();
 		}
 	}
+	
 
 ## 결과::
+
 
 <img src="https://miro.medium.com/max/286/1*QDu7jDxT07OpHH1pJ_E9AA.png" width="225px" height="150px" title="px(픽셀) 크기 설정" alt="이미지2"><br/>
 

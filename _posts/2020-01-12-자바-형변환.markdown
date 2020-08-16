@@ -3,6 +3,7 @@ layout: post
 title:  "자바 형변환"
 date:   2020-01-12 09:43:22
 description: 자바 형변환
+comments: true
 categories: 
 - blog
 - programming

@@ -3,6 +3,7 @@ layout: post
 title:  "안드로이드 스튜디오 레이아웃"
 date:   2020-01-12 10:08:47
 description: 안드로이드 스튜디오 레이아웃
+comments: true
 categories: 
 - blog
 - programming
