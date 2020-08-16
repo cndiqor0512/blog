@@ -8,9 +8,6 @@ categories:
 - programming
 ---
 
-
-
-
 nodejs commad prompt창을 열고
 
 
