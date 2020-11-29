@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "nodejs 웹프로젝트"
+date:   2020-11-29 9:48:09
+description: 안드로이드 스튜디오 레이아웃
+comments: true
+categories: 
+- blog
+- programming
+---
+
+[https://github.com/cndiqor0512/chatcord](https://github.com/cndiqor0512/chatcord)
+
+<img src="https://cndiqor0512.github.io/blog/img/123.PNG" width="300px" height="250px" >
+
+해야함: MongoDB에 채팅 저장, UI 디자인
