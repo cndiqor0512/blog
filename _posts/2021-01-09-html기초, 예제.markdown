@@ -8,7 +8,7 @@ categories:
 - blog
 - programming
 ---
-***html 기초:[cndiqor0512.github.io/blog/htmlpractice/index.html](cndiqor0512.github.io/blog/htmlpractice/index.html)***
+***html 기초:[https://cndiqor0512.github.io/blog/htmlpractice/index.html](https://cndiqor0512.github.io/blog/htmlpractice/index.html)
 ~~~ 
 <h1> <h2> : 글씨 크게 (h1>h2)
 ~~~ 
@@ -28,15 +28,15 @@ categories:
 ~~~
 
 ***javascript html 예제:***
-1. [alert](cndiqor0512.github.io/blog/htmlpractice/alert.html)
-2. [switch](cndiqor0512.github.io/blog/htmlpractice/switch.html)
-3. [for](cndiqor0512.github.io/blog/htmlpractice/for.html)
-4. [eval](cndiqor0512.github.io/blog/htmlpractice/eval.html)
-5. [parseInt](cndiqor0512.github.io/blog/htmlpractice/parseInt.html)
-6. [array](cndiqor0512.github.io/blog/htmlpractice/array.html)
-7. [7](cndiqor0512.github.io/blog/htmlpractice/optionselect.html)
-8. [8](cndiqor0512.github.io/blog/htmlpractice/selectedoption.html)
-9. [9](cndiqor0512.github.io/blog/htmlpractice/9.html)
-10. [10](cndiqor0512.github.io/blog/htmlpractice/10.html)
-11. [남자or여자](cndiqor0512.github.io/blog/htmlpractice/f_or_m.html)
+1. [alert](https://cndiqor0512.github.io/blog/htmlpractice/alert.html)
+2. [switch](https://cndiqor0512.github.io/blog/htmlpractice/switch.html)
+3. [for](https://cndiqor0512.github.io/blog/htmlpractice/for.html)
+4. [eval](https://cndiqor0512.github.io/blog/htmlpractice/eval.html)
+5. [parseInt](https://cndiqor0512.github.io/blog/htmlpractice/parseInt.html)
+6. [array](https://cndiqor0512.github.io/blog/htmlpractice/array.html)
+7. [7](https://cndiqor0512.github.io/blog/htmlpractice/optionselect.html)
+8. [8](https://cndiqor0512.github.io/blog/htmlpractice/selectedoption.html)
+9. [9](https://cndiqor0512.github.io/blog/htmlpractice/9.html)
+10. [10](https://cndiqor0512.github.io/blog/htmlpractice/10.html)
+11. [남자or여자](https://cndiqor0512.github.io/blog/htmlpractice/f_or_m.html)
 
